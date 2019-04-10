@@ -1,0 +1,33 @@
+h1 {
+    font-size:100px;
+}
+
+#start {
+    width: 100%;
+    padding: 100px;
+    background-color: purple;
+    font-size: 300px;
+}
+#wrapper{
+    display: block;
+    text-align: center;
+
+}
+
+#sub-wrapper {
+    background-image: url("./assets/images/back.gif");
+    height: 100%;
+}
+
+h2{
+    font-size: 67px;
+    color: white;
+    background-color: greenyellow;
+}
+
+h3{
+    font-size: 47px;
+    color: white;
+    background-color: rgb(7, 207, 214);
+}
+
